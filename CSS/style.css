@@ -113,9 +113,9 @@ h1 {
 
 .th {
     text-align: left;
-    font-size: xx-large;
+    font-size: 40px;
     flex-grow: 1;
-    color: black;
+    color: #0e1e31;
 }
 
 .tdButton {
